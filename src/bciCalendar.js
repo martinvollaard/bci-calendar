@@ -4,27 +4,27 @@
 
     consts = {
         monthNames: [
-            'January',
-            'February',
-            'March',
+            'Januari',
+            'Februari',
+            'Maart',
             'April',
-            'May',
-            'June',
-            'July',
-            'August',
+            'Mei',
+            'Juni',
+            'Juli',
+            'Augustus',
             'September',
-            'October',
+            'Oktober',
             'November',
             'December'
         ],
         dayNames: [
-            'Sunday',
-            'Monday',
-            'Tuesday',
-            'Wednesday',
-            'Thursday',
-            'Friday',
-            'Saturday'
+            'Zondag',
+            'Maandag',
+            'Dinsdag',
+            'Woensdag',
+            'Donderdag',
+            'Vrijdag',
+            'Zaterdag'
         ]
     };
 
